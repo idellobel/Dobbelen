@@ -1,0 +1,35 @@
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.exe.config
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.exe
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.pdb
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.csprojResolveAssemblyReference.cache
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\MainWindow.g.cs
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\App.g.cs
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig_MarkupCompile.cache
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig_MarkupCompile.lref
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\MainWindow.baml
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.g.resources
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.Properties.Resources.resources
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.csproj.GenerateResource.Cache
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.exe
+C:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.pdb
+C:\cursusCsharp\Opdracht_PE_Ivan_Dellobel_KlaseDobbelsteenEnVijftig_A5_Programmeren_1\WpfVijftig\bin\Debug\WpfVijftig.exe.config
+C:\cursusCsharp\Opdracht_PE_Ivan_Dellobel_KlaseDobbelsteenEnVijftig_A5_Programmeren_1\WpfVijftig\obj\Debug\WpfVijftig.exe
+C:\cursusCsharp\Opdracht_PE_Ivan_Dellobel_KlaseDobbelsteenEnVijftig_A5_Programmeren_1\WpfVijftig\obj\Debug\WpfVijftig.pdb
+D:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.exe.config
+D:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.exe
+D:\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.exe.config
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.exe
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\bin\Debug\WpfVijftig.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\MainWindow.g.cs
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\App.g.cs
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig_MarkupCompile.cache
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig_MarkupCompile.lref
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\MainWindow.baml
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.g.resources
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.Properties.Resources.resources
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.csproj.GenerateResource.Cache
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.exe
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.pdb
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.csprojAssemblyReference.cache
+D:\HBO5_Eerste jaar\cursusCsharp\KlaseDobbelsteenEnVijftig\WpfVijftig\obj\Debug\WpfVijftig.csproj.CoreCompileInputs.cache
